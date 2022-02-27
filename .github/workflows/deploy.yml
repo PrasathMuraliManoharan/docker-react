@@ -3,9 +3,7 @@ on:
   push:
     branches:
       - main
- 
-      access kye id : AKIAYJ57ZOOOPBNZ3AEZ
-      secret id: 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
+
 jobs:
   build:
     runs-on: ubuntu-latest
